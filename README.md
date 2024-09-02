@@ -5,13 +5,15 @@ doi: https://doi.org/10.1101/2024.04.22.590220
 
 ## Bundles
 The bundle includes:
-- tools for building scanpy datasets from multiple CellRanger count tables
+- tools for building scanpy object from multiple CellRanger count tables
 - doublet removal 
 - batch correction
 - computing data reduction coordinates like UMAP, force directed graph and diffusion map
+- signature genes, including surface protein markers
 - trajectory analysis
 - cell type or age-tissue comparison metrics and plots
-- computing differentially expressed genes
+- cell cycle
+
 
 ## Data accessibility
 There are no restrictions on data availability for data presented in this study. 
@@ -28,16 +30,16 @@ Kits v.2) or ST; standard kit(Chromium Next GEM Single Cell 5’ Reagent Kits v.
 ### Python version 3.8 (or later)
 - Scanpy (version 1.9.5)
 - DoubletDetection (version 4.2)
-scVI (version 1.0.4)
-pytorch (version 2.1.3)
-jax (version 0.4.23)
-fa2 (version 0.3.5)
-diffxpy (version 0.7.4)
+- scVI (version 1.0.4)
+- pytorch (version 2.1.3)
+- jax (version 0.4.23)
+- fa2 (version 0.3.5)
+- diffxpy (version 0.7.4)
 
 ### R version 4.2.2 
-Seurat (version 5.0.3)
-Monocle 3 (version 1.3.1)
-ClusterProfiler (version 4.10.0)
-dplyr (version 1.1.4)
-ggplot2 (version 3.5.1) 
+- Seurat (version 5.0.3)
+- Monocle 3 (version 1.3.1)
+- ClusterProfiler (version 4.10.0)
+- dplyr (version 1.1.4)
+- ggplot2 (version 3.5.1) 
 
