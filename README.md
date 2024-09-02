@@ -14,6 +14,9 @@ The bundle includes:
 - cell type or age-tissue comparison metrics and plots
 - cell cycle
 
+## Sample species and reference genomes
+- cynomolgus macaque ( Macaca fascicularis) [MFA1912RKSv2]
+
 
 ## Data accessibility
 There are no restrictions on data availability for data presented in this study. 
