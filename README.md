@@ -6,12 +6,13 @@ doi: https://doi.org/10.1101/2024.04.22.590220
 ## Bundles
 The bundle includes:
 - tools for building scanpy object from multiple CellRanger count tables
-- doublet removal 
+- doublet removal
+- subsampling
 - batch correction
-- computing data reduction coordinates like UMAP, force directed graph and diffusion map
-- signature genes, including surface protein markers
+- computing data reduction coordinates like UMAP, paga, force directed graph and diffusion map
 - trajectory analysis
-- cell type or age-tissue comparison metrics and plots
+- exploration of marker genes
+- cell type or age-tissue comparison metrics
 - cell cycle
 
 ## Sample species and reference genomes
