@@ -39,11 +39,19 @@ Kits v.2) or ST; standard kit(Chromium Next GEM Single Cell 5’ Reagent Kits v.
 - jax (version 0.4.23)
 - fa2 (version 0.3.5)
 - diffxpy (version 0.7.4)
+- numpy (version 1.24.4)
+- pandas (version 2.1.4)
+- igraph (version 0.11.3)
+- forceatlas2-python (version 1.1)
+- matplotlib (version 3.8.0)
 
 ### R version 4.2.2 
 - Seurat (version 5.0.3)
 - Monocle 3 (version 1.3.1)
 - ClusterProfiler (version 4.10.0)
 - dplyr (version 1.1.4)
-- ggplot2 (version 3.5.1) 
+- ggplot2 (version 3.5.1)
+- Dose (version 3.28.2)
+- org.Mmu.eg.db (version 3.18.0)
+- tidyverse (version 2.0.0)
 
